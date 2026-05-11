@@ -23,8 +23,8 @@ Online examination platform with browser-based proctoring, multi-admin workspace
 ### 1. Clone and Install
 
 ```bash
-git clone <repo-url>
-cd examcloudx
+git clone https://github.com/cloudxplorer/ExamCloudX
+cd ExamCloudX
 npm install
 ```
 
